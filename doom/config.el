@@ -1,0 +1,1 @@
+/Users/jack/.doom.d/config.el
